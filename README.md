@@ -2,7 +2,7 @@
 <pre>
 Closed source insulter bookmarklet
 
-1.) Download zip file next to release and extract the zip
+1.) Download source code zip file next to release and extract the zip
 2.) Go to files and run the html
 3.) Drag button to bookmark bar
 4.) Click the button
