@@ -1,4 +1,5 @@
 # Insulter
+<pre>
 Closed source insulter bookmarklet
 
 1.) Click the html file
@@ -6,3 +7,4 @@ Closed source insulter bookmarklet
 3.) click the bookmark bar button
 4.) Enter any username
 5.) use the public key which is "qazx"
+</pre>
