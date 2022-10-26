@@ -7,6 +7,6 @@ Closed source insulter bookmarklet
 3.) Drag button to bookmark bar
 4.) Click the button
 5.) Type in any username
-6.) use the public key "qazx"
+6.) use the public key "qazx", new versions key is "qwerty"
 7.) enjoy!
 </pre>
